@@ -1,0 +1,6 @@
+@import "@fontsource/roboto"; /* Font Roboto */
+@import "@fontsource/lora"; /* Font Lora */
+@import "@fontsource/poppins"; /* Font Poppins */
+
+@import "tailwindcss";
+@config "../tailwind.config.js";
